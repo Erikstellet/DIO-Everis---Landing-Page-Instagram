@@ -40,7 +40,7 @@ body
 
 .instagram-phone img 
 {
-    height: 50rem;
+    height: 45rem;
 }
 
 .instagram-continue
@@ -83,6 +83,7 @@ body
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
+    margin: 1.0rem;
 }
 
 .profile-photo img 
@@ -138,7 +139,7 @@ body
     width: 100%;
     justify-content: space-evenly;
     align-items: center;
-    padding: 1.3rem 0;
+    padding: 1.3rem 5.0rem;
 }
 
 .app-download
